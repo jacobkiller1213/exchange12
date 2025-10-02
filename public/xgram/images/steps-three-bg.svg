@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="588" height="489" fill="none">
+    <g style="mix-blend-mode:plus-lighter">
+        <mask id="b" width="910" height="489" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+            <path fill="url(#a)" d="M909.911 489h909.911v489H909.911z" transform="rotate(-180 909.911 489)"/>
+        </mask>
+        <g mask="url(#b)">
+            <path fill="url(#c)" d="M657.863 1404.57h1452.09v2144.97H657.863z"
+                  transform="rotate(-180 657.863 1404.57)"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="a" x1="1760.4" x2="1491.22" y1="971.768" y2="471.055" gradientUnits="userSpaceOnUse">
+            <stop/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="c" x1="2047.94" x2="2673.28" y1="1451.17" y2="2194.32" gradientUnits="userSpaceOnUse">
+            <stop/>
+            <stop offset=".547" stop-color="#22155C"/>
+            <stop offset=".724" stop-color="#3F259D"/>
+            <stop offset=".84" stop-color="#704AE7"/>
+            <stop offset="1" stop-color="#C6B8F6"/>
+        </linearGradient>
+    </defs>
+</svg>

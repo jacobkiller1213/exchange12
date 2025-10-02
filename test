@@ -1,0 +1,38 @@
+            <script type="text/javascript">
+                let from = "BTC";
+                let to = "ETH";
+                let calculatorErrors = {
+                  ru: {
+                    min: "\u041c\u0438\u043d\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0443\u043c\u043c\u0430 %s %s",
+                    max: "\u041c\u0430\u043a\u0441\u0438\u043c\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0443\u043c\u043c\u0430 %s %s",
+                  },
+                  en: {
+                    min: "Minimum allowed is %s %s",
+                    max: "Maximum allowed is %s %s",
+                  },
+                  es: {
+                    min: "Cantidad m\u00ednima %s %s",
+                    max: "Cantidad m\u00e1xima %s %s",
+                  },
+                  fr: {
+                    min: "Montant minimum %s %s",
+                    max: "Montant maximum %s %s",
+                  },
+                  hi: {
+                    min: "\u0928\u094d\u092f\u0942\u0928\u0924\u092e \u0930\u0915\u092e %s %s",
+                    max: "\u0905\u0927\u093f\u0915\u0924\u092e \u0930\u0915\u092e %s %s",
+                  },
+                  ko: {
+                    min: "\ucd5c\uc18c \uae08\uc561 %s %s",
+                    max: "\ucd5c\ub300 \uae08\uc561 %s %s",
+                  },
+                  pt: {
+                    min: "Quantia m\u00ednima %s %s",
+                    max: "Quantia m\u00e1xima %s %s",
+                  },
+                  tr: {
+                    min: "Minimum miktar %s %s",
+                    max: "Maksimum miktar %s %s",
+                  },
+                };
+              </script>

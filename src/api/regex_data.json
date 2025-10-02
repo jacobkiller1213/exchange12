@@ -1,0 +1,434 @@
+[
+    {
+      "best_code": "BTC",
+      "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[(bc1q)|(bc1p)][0-9A-Za-z]{37,62}$"
+    },
+    {
+      "best_code": "LTC",
+      "regex": "^(L|M|3)[A-Za-z0-9]{33}$|^(ltc1)[0-9A-Za-z]{39}$"
+    },
+    {
+      "best_code": "BCH",
+      "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bitcoincash:)?(q|p)[a-z0-9]{41}$"
+    },
+    {
+      "best_code": "ZEC",
+      "regex": "^t1[a-zA-Z0-9]{33}$"
+    },
+    {
+      "best_code": "DASH",
+      "regex": "^[X|7][0-9A-Za-z]{33}$"
+    },
+    {
+      "best_code": "SBERRUB",
+      "regex": "^[0-9]{16,}$"
+    },
+    {
+      "best_code": "ETH",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "USDTERC20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "CASHRUB",
+      "regex": ""
+    },
+    {
+      "best_code": "XRP",
+      "regex": "^r[1-9A-HJ-NP-Za-km-z]{25,34}$"
+    },
+    {
+      "best_code": "XLM",
+      "regex": "^G[A-D]{1}[A-Z2-7]{54}$"
+    },
+    {
+      "best_code": "USDCERC20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "USDTTRC20",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "USDTERC20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "ETH",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "USDTTRC20",
+      "regex": ""
+    },
+    {
+      "best_code": "TRX",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "USDCTRC20",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "DOT",
+      "regex": "^(1)[0-9a-z-A-Z]{44,50}$"
+    },
+    {
+      "best_code": "USDTTRC20",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "LTC",
+      "regex": "^(L|M|3)[A-Za-z0-9]{33}$|^(ltc1)[0-9A-Za-z]{39}$"
+    },
+    {
+      "best_code": "BTC",
+      "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[(bc1q)|(bc1p)][0-9A-Za-z]{37,62}$"
+    },
+    {
+      "best_code": "BCH",
+      "regex": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(bitcoincash:)?(q|p)[a-z0-9]{41}$"
+    },
+    {
+      "best_code": "ZEC",
+      "regex": "^t1[a-zA-Z0-9]{33}$"
+    },
+    {
+      "best_code": "XRP",
+      "regex": "^r[1-9A-HJ-NP-Za-km-z]{25,34}$"
+    },
+    {
+      "best_code": "XLM",
+      "regex": "^G[A-D]{1}[A-Z2-7]{54}$"
+    },
+    {
+      "best_code": "XMR",
+      "regex": "^[48][a-zA-Z|\\d]{94}([a-zA-Z|\\d]{11})?$"
+    },
+    {
+      "best_code": "DOGE",
+      "regex": "^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$"
+    },
+    {
+      "best_code": "ETC",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "ETH",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "TRX",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "DOT",
+      "regex": "^(1)[0-9a-z-A-Z]{44,50}$"
+    },
+    {
+      "best_code": "DASH",
+      "regex": "^[X|7][0-9A-Za-z]{33}$"
+    },
+    {
+      "best_code": "USDTERC20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "USDCERC20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "ADA",
+      "regex": "^(([0-9A-Za-z]{57,59})|([0-9A-Za-z]{100,104}))$"
+    },
+    {
+      "best_code": "SOL",
+      "regex": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+    },
+    {
+      "best_code": "MATIC",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "DAI",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "WBT_TRC20_TEST",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "WBT_ERC20_TEST",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "DOGE",
+      "regex": "^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$"
+    },
+    {
+      "best_code": "ETHOP",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "ETHARB",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "ARB",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "DAI",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "SBERRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "TCSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ACRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "RNKBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "OPNBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "RUSSTRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "AVBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "RFBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "GPBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "POSTBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "RSHBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ROSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "BNBBEP20",
+      "regex": "^(0x)[0-9A-Fa-f]{40}$"
+    },
+    {
+      "best_code": "TCSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SBERRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ACRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "USDTTRC20",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "TRX",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "PSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "CARDRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SBPRUB",
+      "regex": "^\\+7[0-9]{10}\\z"
+    },
+    {
+      "best_code": "CARDKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "MTSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SVCMBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "USDTTRC20",
+      "regex": "^T[1-9A-HJ-NP-Za-km-z]{33}$"
+    },
+    {
+      "best_code": "OZNRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "KSPBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "HLKBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "JSNBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "FFBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "FRTBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "CCBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "BRBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ERSNBKZT",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "AKBARSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "TON",
+      "regex": "^[UE][Qf][0-9a-z-A-Z\\-\\_]{46}$"
+    },
+    {
+      "best_code": "YNDXRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "USDTTON",
+      "regex": "^[UE][Qf][0-9a-z-A-Z\\-\\_]{46}$"
+    },
+    {
+      "best_code": "TON",
+      "regex": "^[UE][Qf][0-9a-z-A-Z\\-\\_]{46}$"
+    },
+    {
+      "best_code": "USDTSOL",
+      "regex": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+    },
+    {
+      "best_code": "USDCSOL",
+      "regex": "^[1-9A-HJ-NP-Za-km-z]{32,44}$"
+    },
+    {
+      "best_code": "URSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "OTPBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "UBRRBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "EXPORUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ZENITRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "PRIMSOCBANKRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "UNICREDITBANKRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "LVBRSHNBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "BCSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SLDRTBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SBSCBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ABSLTBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "FORARUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "UNISTREAMRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "CIFRABRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ATBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SDMBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "SVBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "RNSNSBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "INGOBRUB",
+      "regex": "^[0-9]{16}$"
+    },
+    {
+      "best_code": "ALMAZERGIENBANKRUB",
+      "regex": "^[0-9]{16}$"
+    }
+  ]
