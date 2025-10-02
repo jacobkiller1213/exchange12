@@ -17,7 +17,7 @@ const isMenuOpen = ref(false);
                     <li class="header__menu-item"> <a class="header__menu-link js-head-link" href="/#faq">FAQ</a></li>
                     <li class="header__menu-item"> <a class="header__menu-link js-head-link" href="/rules">Условия пользования</a></li>
 
-                    <li class="header__menu-item"> <a class="header__menu-link" href="tg://resolve?domain=corechain_support" rel="nofollow noopener"> Поддержка </a></li>
+                    <li class="header__menu-item"> <a class="header__menu-link" href="tg://resolve?domain=rapidchain_net" rel="nofollow noopener"> Поддержка </a></li>
                 </ul>
                 <div class="header__info" style="min-width: 100px;">
                     <button @click="isMenuOpen = !isMenuOpen" class="reset-btn burger header__burger js-burger">

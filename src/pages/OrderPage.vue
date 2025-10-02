@@ -205,7 +205,7 @@ const updateStatusContent = () => {
     if (!order.value) return;
 
     // Define telegram support URL
-    const telegram_support = "https://t.me/corechain_support"; // Replace with actual support URL
+    const telegram_support = "https://t.me/rapidchain_net"; // Replace with actual support URL
 
     switch (order.value.status) {
         case 'created':
@@ -367,7 +367,7 @@ setInterval(checkOrderChanges, 1000);
                         </ul>
                         <div class="layout__contact">
                             <div class="layout__contact-text">Пожалуйста, свяжитесь с нами, если у вас возникнут какие-либо вопросы.</div>
-                            <div class="links"> <a class="links__item" href="tg://resolve?domain=corechain_support"> <img src="/xgram/images/icons/telegram.svg" width="17" alt="Наш Telegram-канал"> </a></div>
+                            <div class="links"> <a class="links__item" href="tg://resolve?domain=rapidchain_net"> <img src="/xgram/images/icons/telegram.svg" width="17" alt="Наш Telegram-канал"> </a></div>
                         </div>
                     </div>
                     <div class="layout__main block" :class="`layout__main_step_${currentStep}`">
