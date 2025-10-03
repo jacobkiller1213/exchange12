@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="592" height="494" fill="none">
+    <mask id="b" width="915" height="494" x="-17" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+        <path fill="url(#a)" d="M0 0h911.274v489.732H0z" transform="scale(-1 1) rotate(.268 -449.403 -191250.263)"/>
+    </mask>
+    <g mask="url(#b)">
+        <path fill="url(#c)" d="M0 0h1454.26v2148.18H0z" transform="scale(-1 1) rotate(.268 195370.701 -137277.683)"/>
+    </g>
+    <defs>
+        <linearGradient id="a" x1="851.761" x2="582.179" y1="483.491" y2="-17.972" gradientUnits="userSpaceOnUse">
+            <stop/>
+            <stop offset="1" stop-opacity="0"/>
+        </linearGradient>
+        <linearGradient id="c" x1="1392.15" x2="2018.44" y1="46.672" y2="790.927" gradientUnits="userSpaceOnUse">
+            <stop/>
+            <stop offset=".547" stop-color="#22155C"/>
+            <stop offset=".724" stop-color="#3F259D"/>
+            <stop offset=".84" stop-color="#704AE7"/>
+            <stop offset="1" stop-color="#C6B8F6"/>
+        </linearGradient>
+    </defs>
+</svg>
