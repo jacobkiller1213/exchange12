@@ -28,7 +28,7 @@ const name_exchange = ref(import.meta.env.VITE_EXCHANGER_NAME);
                     <div class="footer__menu">
                         <div class="footer__title">Контакты</div>
                         <ul class="reset-list footer__list">
-                            <li class="footer__item"> <a class="footer__link" href="tg://resolve?domain=rapidchain_net" rel="nofollow noopener">Поддержка в Telegram</a></li>
+                            <li class="footer__item"> <a class="footer__link" href="tg://resolve?domain=corechain_support" rel="nofollow noopener">Поддержка в Telegram</a></li>
                         </ul>
                     </div>
                     <div class="social_links_media_view-xl">
