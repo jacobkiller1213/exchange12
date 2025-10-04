@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue';
-
+const name_exchange = import.meta.env.VITE_EXCHANGER_NAME;
 // Track which FAQ items are active/expanded
 const activeFaqItems = ref(new Set());
 
@@ -64,7 +64,7 @@ const isFaqItemActive = (index) => {
                     :class="{ 'faq__descr--active': isFaqItemActive(0) }"
                     style=""
                   >
-                    Все операции в обменном пункте  проводятся под
+                    Все операции в обменном пункте {{ name_exchange }} проводятся под
                     контролем операторов. Выберите направление обмена в столбце
                     "Вы отдаете" и столбце "Вы получаете".
                   </p>
@@ -118,7 +118,7 @@ const isFaqItemActive = (index) => {
                     class="faq__descr"
                     :class="{ 'faq__descr--active': isFaqItemActive(3) }"
                   >
-                    Сервис  предоставляет услуги обмена криптовалют. Так
+                    Сервис {{ name_exchange }} предоставляет услуги обмена криптовалют. Так
                     же через наш сервис можно обменять любую криптовалюту на
                     фиат. Узнать подробнее в каких странах мы можем произвести
                     обмен на наличные вы можете через нашу службу поддержки
