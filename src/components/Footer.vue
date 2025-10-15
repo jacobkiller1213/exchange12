@@ -10,7 +10,7 @@ const name_exchange = ref(import.meta.env.VITE_EXCHANGER_NAME);
             <div class="footer__wrapper">
                 <div class="footer__info">
                     <a class="header__logo" href="/" style="margin-bottom: 10px;">
-
+                        {{ name_exchange }}
                     </a>
                     <div class="footer__promo">Сервис для обмена криптовалюты</div>
                     <div class="riverbed_technology__promo hidden-mobile">© {{ name_exchange }} - все права защищены</div>
